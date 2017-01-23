@@ -1,5 +1,5 @@
 # Automatic-Bridge-Bidding-by-Deep-Reinforcement-Learning
-The released model of the paper 'Automatic Bridge Bidding by Deep Reinforcement Learning' in ECAI 2016
+The released model of the paper 'Automatic Bridge Bidding by Deep Reinforcement Learning' in ECAI 2016 https://arxiv.org/pdf/1607.03290v1.pdf
 
 The current release includes 4 trained models when the limited maximum bids are 2 to 5, and the dataset.
 
